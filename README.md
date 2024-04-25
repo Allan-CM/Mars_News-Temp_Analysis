@@ -46,5 +46,11 @@ The final Pandas DataFrame containing the scraped temperature data is saved as a
 # Conclusion
 This project demonstrates how to scrape Mars-related data using Python libraries and automate browsing using Splinter. The extracted data, including news articles and temperature records, can be used for various analyses, such as understanding Mars' climate patterns and recent news updates.
 
+# Mars_News-Temp_Analysis Repo Organization
+* part_1_mars_news - contains the code used to scrape the mars news website to retrieve various news article and headlines
+* part_2_mars_weather - contains the code used to scrape the mars weather website to complete the temperature data analysis 
+* Output – contains dataframe in the form of a csv for the scraped temperature data 
+
+
 
 
